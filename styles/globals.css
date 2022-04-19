@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: 'Montserrat semibold';
+  src: url('../assets/fonts/Montserrat/static/Montserrat-SemiBold.ttf');
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
